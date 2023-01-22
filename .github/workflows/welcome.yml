@@ -1,0 +1,4 @@
+Name: welcome
+on: 
+pull_request: 
+types: [opened]
